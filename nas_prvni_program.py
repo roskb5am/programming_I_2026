@@ -4,4 +4,5 @@
 
 i = 3
 while i <= 30:  #Cykus while otestuje podmínku, když True, tak proběhne jeho iterace
-    print(i)    #Bloky v Pythonu určeny odsazením     i += 3      #Při každém průběhu zvýším i o 3
+    print(i)    #Bloky v Pythonu určeny odsazením
+    i += 3      #Při každém průběhu zvýším i o 3
